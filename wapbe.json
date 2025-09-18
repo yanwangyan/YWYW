@@ -1,5 +1,5 @@
 {
-     "spider": "https://git.acwing.com/xyan/soni/-/raw/main/810.jar;md5;51d610ac72e41c30771232411d2beed7",
+     "spider": "https://git.acwing.com/xyan/soni/-/raw/main/wap/810.jar;md5;51d610ac72e41c30771232411d2beed7",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -914,4 +914,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
