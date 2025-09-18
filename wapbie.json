@@ -1,3 +1,4 @@
+{
 "spider": "https://niiuma.qi-simple.top/lz/?type=1;md5;51d610ac72e41c30771232411d2beed7",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
@@ -913,4 +914,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
