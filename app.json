@@ -1,0 +1,41 @@
+{
+    "update": {
+        "vod_force": true,
+        "vod_version": 480,
+        "vod_msg": "- 本次更新不会覆盖安装\n- 桌面会有另一个软件图标\n- 解决软件报毒\n- 减少恶心的广告\n- 桌面会出现一样的软件图标\n- 桌面会出现一样的软件图标\n- 请尽快更新",
+        "vod_url": "https://xiafanapp.lanzn.com/b04ezblvc"
+    },
+    "bulletin": {
+        "vod_msg": "\n                            来对地方啦！！！"
+    },
+    
+    "banner": {
+   "vod_id": "淮水竹亭",
+   "vod_type": "1",                               "vod_title": "王麻子",                                       "vod_pic": "https://i.imgs.ovh/2025/09/13/7ZiNs4.png"                                          },  
+    "share": {
+        "vod_sharemsg": "发现了一个看电影神器，每天更新多种大片，美剧，追剧超方便，点我下载吧~：\n\nhttps://www.123865.com/s/nVjbVv-bg1Wh [分享自影视猫]"
+    },
+    "wldata": {
+        "vod_switch": false
+    },
+    "kpad": {
+        "vod_switch": false
+    },
+    "qqijk": {
+        "vod_switch": false,
+        "xl": "FYNB#mgtv"
+    },
+    "ad": {
+        "kp": true,
+        "home": true,
+        "searchbanner":true,
+        "playbanner": true,
+        "play": true,
+        "playone": false,
+        "pause":false
+    },
+    "xxlad": {
+        "vod_switch": true
+    }
+}
+
