@@ -1,0 +1,201 @@
+[
+    {
+        "名称": "新秒播🔥",
+        "搜索链接": "http://175.178.80.209/mb/api.php/provide/vod/",
+        "搜索UA": "",
+        "播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+    },
+    
+    	{
+		"名称":"布蕾资源",
+		"搜索UA":"",
+		"搜索链接":"http://114.132.55.23/bl/mb/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+    },
+
+
+	{
+		"名称":"爱国资源",
+		"搜索UA":"",
+		"搜索链接":"https://cjhwba.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"光速资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"黑莓资源",
+		"搜索UA":"",
+		"搜索链接":"https://json.heimuer.xyz/api.php/provide/vod/from/heimuer/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"秒播资源",
+		"搜索UA":"",
+		"搜索链接":"http://www.csykkj.club/api.php/provide/vod/from/tym3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"樱花资源",
+		"搜索UA":"",
+		"搜索链接":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"索尼资源",
+		"搜索UA":"",
+		"搜索链接":"https://suoniapi.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"无尽资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"新郎资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"速播资源",
+		"搜索UA":"",
+		"搜索链接":"https://subocaiji.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+
+	{
+		"名称":"极速资源",
+		"搜索UA":"",
+		"搜索链接":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"闪电资源",
+		"搜索UA":"",
+		"搜索链接":"http://sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
+		"播放UA":""
+	},
+	{
+		"名称":"醒图资源",
+		"搜索UA":"",
+		"搜索链接":"https://cj.vodimg.top/api.php/provide/vod/from/hnm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+            {
+        "名称": "SX（主1）",
+        "搜索链接": "http://124.222.116.5/mb/mb/sxys/api.php/provide/vod/",
+        "搜索UA": "",
+        "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+    },
+
+    {
+        "名称": "QY（主2）",
+        "搜索链接": "",
+        "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+        "播放UA": "",
+        "网页搜索链接": "http://www.wdbay.com/search.php&&&searchword",
+        "网页搜索API": "",
+        "搜索影片名": "//div[@class='detail']/h3/a/text()",
+        "搜索影片ID": "//div[@class='detail']/h3/a/@href",
+        "搜索影片图片": "//div[@class='thumb']/a/@data-original",
+        "搜索影片状态": "//div[@class='thumb']/a/span[2]/text()",
+        "详情页地址": "http://www.wdbay.com/view/{id}.html",
+        "详情影片名": "//div[@class='stui-content__detail']/h1/text()",
+        "详情剧情": "//div[@class='col-pd']/text()",
+        "详情图片": "//a[@class='stui-vodlist__thumb picture v-thumb']/img/@data-original",
+        "详情播放列表": "//div[@class='tab-content stui-pannel_bd col-pd']/div/ul",
+        "详情线路名": "//ul[@class='nav nav-tabs pull-right']/li/a/text()",
+        "详情集数名": "//li/a/text()",
+        "详情集数链接": "//li/a/@href"
+  
+    },
+     {
+                 "名称": "NM影视🔥",
+                         "搜索链接": "",
+                                 "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",                                      "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",    "网页搜索链接": "https://wwgz.cn/index.php?m=vod-search&&&wd",                   "网页搜索API": "",
+"搜索影片名": "//div[@class='txt txtHeight']/span[@class='sTit']/text()",
+ "搜索影片ID": "//li/div[@class='pic']/a/@href",
+ "搜索影片图片": "//li/div[@class='pic']/a/img/@data-src",
+  "搜索影片状态": "//li/div[@class='pic']/a/span/text()",
+"详情页地址": "https://wwgz.cn/vod-detail-id-{id}.html",
+ "详情影片名": "//section[@class='page-hd']/a/@title",
+"详情剧情": "//article[@class='detail-con']/p/text()",  "详情图片": "//section[@class='page-hd']/a/img/@src",
+"详情播放列表": "//div[@class='bd']/div/ul",
+"详情线路名": "//div[@class='hd']/ul/li/a/text()",
+ "详情集数名": "//li/a/text()",
+ "详情集数链接": "//li/a/@href"
+   },
+     
+    {
+        "名称": "次元城动漫",
+        "搜索链接": "",
+        "搜索UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "播放UA": "",
+        "网页搜索链接": "https://www.cycani.org/search.html?wd={wd}",
+        "网页搜索API": "",
+        "搜索影片名": "//div[@class='thumb-txt cor4 hide']/text()",
+        "搜索影片ID": "//div[@class='thumb-menu flex']/a[1]/@href",
+        "搜索影片图片": "//a[@class='public-list-exp']/img/@data-src",
+        "搜索影片状态": "//span[@class='public-list-prb hide ft2']/text()",
+        "详情页地址": "https://www.cycani.org/bangumi/{id}.html",
+        "详情影片名": "//h3[@class='slide-info-title hide']/text()",
+        "详情剧情": "//li[@class='top26']/text()",
+        "详情图片": "//a[@class='detail-pic lazy mask-0']/@data-original",
+        "详情播放列表": "//ul[@class='anthology-list-play size']",
+        "详情线路名": "//div[@class='swiper-wrapper']/a/text()",
+        "详情集数名": "//li/a/text()",
+        "详情集数链接": "//li/a/@href"
+    },
+    {
+        "名称": "动漫巴士",
+        "搜索链接": "",
+        "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+        "播放UA": "",
+        "网页搜索链接": "https://dm84.tv/s----------.html?wd={wd}",
+        "网页搜索API": "",
+        "搜索影片名": "//a[@class='title']/text()",
+        "搜索影片ID": "//a[@class='title']/@href",
+        "搜索影片图片": "//ul[@class='v_list']/li/div/a[1]/@data-bg",
+        "搜索影片状态": "//span[@class='desc']/text()",
+        "详情页地址": "https://dm84.tv/v/{id}.html",
+        "详情影片名": "//h1[@class='v_title']/a/text()",
+        "详情剧情": "//div[@id='intro']/p[5]//text()",
+        "详情图片": "//div[@class='cover']/img/@src",
+        "详情播放列表": "//div[@class='tab_content']/ul",
+        "详情线路名": "//div[@class='card mb20']/ul[@class='tab_control play_from']/li/text()",
+        "详情集数名": "//li/a/text()",
+        "详情集数链接": "//li/a/@href"
+    },
+    {
+        "名称": "樱花动漫",
+        "搜索链接": "",
+        "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+        "播放UA": "",
+        "网页搜索链接": "http://m.iyinghua.io/search/{wd}",
+        "网页搜索API": "",
+        "搜索影片名": "//ul/li/a/text()",
+        "搜索影片ID": "//ul/li/a/@href",
+        "搜索影片图片": "//ul/li/div/a/div/div/@style",
+        "搜索影片状态": "//ul/li/div/a/div/div[2]/text()",
+        "详情页地址": "http://m.iyinghua.io/show/{id}.html",
+        "详情影片名": "//div[@class='show']/h1/text()",
+        "详情剧情": "//div[@class='info']/text()",
+        "详情图片": "//div[@class='show']/img/@src",
+        "详情播放列表": "//div[@id='playlists']/ul",
+        "详情线路名": "//div[@class='plist plist1']/div[@class='listtit']/span/text()",
+        "详情集数名": "//li/a/text()",
+        "详情集数链接": "//li/a/@href"
+    }
+]
