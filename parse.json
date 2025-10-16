@@ -1,33 +1,23 @@
 [
     {
-        "name": "mytv",
-        "parse": "http://124.222.30.115/aapi/mytv.php?url=",
-        "parse2": "http://124.222.30.115/aapi/mytv.php?url="
-    },
-    {
-        "name": "czzy",
-        "parse": "http://124.222.30.115/aapi/czzy.php?url=",
-        "parse2": "http://124.222.30.115/aapi/czzy.php?url="
-    },
-    {
-        "name": "NBY",
-        "parse": "http://124.222.30.115/aapi/nby.php?url=",
-        "parse2": "http://124.222.30.115/aapi/nby.php?url="
-    },
-    {
-        "name": "nmys",
-        "parse": "http://124.222.30.115/aapi/nmys.php?url=",
-        "parse2": "http://124.222.30.115/aapi/nmys.php?url="
-    },
-    {
         "name": "yhdm2",
         "parse": "http://124.222.30.115/aapi/yhdm.php?url=",
         "parse2": "http://124.222.30.115/aapi/yhdm.php?url="
     },
     {
-        "name": "nyadm",
-        "parse": "http://124.222.30.115/aapi/nya.php?url=",
-        "parse2": "http://124.222.30.115/aapi/nya.php?url="
+        "name": "lekanzyw",
+        "parse": "http://124.222.30.115/aapi/zq.php?url=",
+        "parse2": "http://124.222.30.115/aapi/zq.php?url="
+    },
+    {
+        "name": "ESPN",
+        "parse": "http://124.222.30.115/aapi/espn.php?url=",
+        "parse2": "http://124.222.30.115/aapi/espn.php?url="
+    },
+    {
+        "name": "GTV",
+        "parse": "http://124.222.30.115/aapi/gtv.php?url=",
+        "parse2": "http://124.222.30.115/aapi/gtv.php?url="
     },
     {
         "name": "dmbs",
@@ -35,6 +25,31 @@
         "parse2": "http://124.222.30.115/aapi/dmbs.php?url="
     },
     {
+        "name": "nmys2",
+        "parse": "http://124.222.30.115/aapi/nmys2.php?url=",
+        "parse2": "http://124.222.30.115/aapi/nmys.php?url="
+    },
+    {
+        "name": "BBA",
+        "parse": "http://124.222.30.115/aapi/bba.php?url=",
+        "parse2": "http://124.222.30.115/aapi/bba.php?url="
+    },
+    {
+        "name": "ffm3u8",
+        "parse": "http://124.222.30.115/aapi/ff.php?url=",
+        "parse2": "http://124.222.30.115/aapi/ff1.php?url="
+    },
+    {
+        "name": "lzm3u8",
+        "parse": "http://124.222.30.115/aapi/ff.php?url=",
+        "parse2": "http://124.222.30.115/aapi/ff1.php?url="
+    },
+    {
+        "name": "tym3u8",
+        "parse": "http://124.222.30.115/aapi/ff.php?url=",
+        "parse2": "http://124.222.30.115/aapi/ff1.php?url="
+    }
+]    {
         "name": "jzbd",
         "parse": "http://124.222.30.115/aapi/jzbd.php?url=",
         "parse2": "http://124.222.30.115/aapi/jzbd.php?url="
