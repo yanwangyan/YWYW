@@ -44,6 +44,11 @@
         "parse": "http://124.222.30.115/aapi/ff.php?url=",
         "parse2": "http://124.222.30.115/aapi/ff1.php?url="
     },
+        {
+        "name": "mtv",
+        "parse": "https://yingm.cc/jx.php?url=",
+
+    },
     {
         "name": "tym3u8",
         "parse": "http://124.222.30.115/aapi/ff.php?url=",
