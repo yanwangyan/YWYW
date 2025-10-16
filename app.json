@@ -1,7 +1,7 @@
 {
     "update": {
         "vod_force": true,
-        "vod_version": 480,
+        "vod_version": 481,
         "vod_msg": "- 本次更新不会覆盖安装\n- 桌面会有另一个软件图标\n- 解决软件报毒\n- 减少恶心的广告\n- 桌面会出现一样的软件图标\n- 桌面会出现一样的软件图标\n- 请尽快更新",
         "vod_url": "https://xiafanapp.lanzn.com/b04ezblvc"
     },
