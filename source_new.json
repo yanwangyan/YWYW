@@ -110,5 +110,83 @@
         "详情线路名": "//div[@class='plist plist1']/div[@class='listtit']/span/text()",
         "详情集数名": "//li/a/text()",
         "详情集数链接": "//li/a/@href"
-    }
+    },
+    	{
+		"名称":"布蕾资源",
+		"搜索UA":"",
+		"搜索链接":"http://114.132.55.23/bl/mb/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+    },
+
+
+	{
+		"名称":"爱国资源",
+		"搜索UA":"",
+		"搜索链接":"https://cjhwba.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"光速资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"黑莓资源",
+		"搜索UA":"",
+		"搜索链接":"https://json.heimuer.xyz/api.php/provide/vod/from/heimuer/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"秒播资源",
+		"搜索UA":"",
+		"搜索链接":"http://www.csykkj.club/api.php/provide/vod/from/tym3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"索尼资源",
+		"搜索UA":"",
+		"搜索链接":"https://suoniapi.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"无尽资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"新郎资源",
+		"搜索UA":"",
+		"搜索链接":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+	{
+		"名称":"速播资源",
+		"搜索UA":"",
+		"搜索链接":"https://subocaiji.com/api.php/provide/vod/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+
+
+	{
+		"名称":"极速资源",
+		"搜索UA":"",
+		"搜索链接":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	},
+	{
+		"名称":"闪电资源",
+		"搜索UA":"",
+		"搜索链接":"http://sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
+		"播放UA":""
+	},
+	{
+		"名称":"醒图资源",
+		"搜索UA":"",
+		"搜索链接":"https://cj.vodimg.top/api.php/provide/vod/from/hnm3u8/",
+		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
+	}
 ]
