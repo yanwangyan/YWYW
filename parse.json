@@ -49,49 +49,4 @@
         "parse": "http://124.222.30.115/aapi/ff.php?url=",
         "parse2": "http://124.222.30.115/aapi/ff1.php?url="
     }
-]    {
-        "name": "jzbd",
-        "parse": "http://124.222.30.115/aapi/jzbd.php?url=",
-        "parse2": "http://124.222.30.115/aapi/jzbd.php?url="
-    },
-    {
-        "name": "jzyd",
-        "parse": "http://124.222.30.115/aapi/jzyd.php?url=",
-        "parse2": "http://124.222.30.115/aapi/jzyd.php?url="
-    },
-    {
-        "name": "nmys2",
-        "parse": "http://124.222.30.115/aapi/nmys2.php?url=",
-        "parse2": "http://124.222.30.115/aapi/nmys.php?url="
-    },
-    {
-        "name": "BBA",
-        "parse": "http://124.222.30.115/aapi/bba.php?url=",
-        "parse2": "http://124.222.30.115/aapi/bba.php?url="
-    },
-    {
-        "name": "GTV",
-        "parse": "http://124.222.30.115/aapi/gtv.php?url=",
-        "parse2": "http://124.222.30.115/aapi/gtv.php?url="
-    },
-    {
-        "name": "ATQP",
-        "parse": "http://124.222.30.115/aapi/atqp.php?url=",
-        "parse2": "http://124.222.30.115/aapi/atqp.php?url="
-    },
-    {
-        "name": "ATQP2",
-        "parse": "http://124.222.30.115/aapi/atqp.php?url=",
-        "parse2": "http://124.222.30.115/aapi/atqp.php?url="
-    },
-    {
-        "name": "ffm3u8",
-        "parse": "http://124.222.30.115/aapi/ff.php?url=",
-        "parse2": "http://124.222.30.115/aapi/ff1.php?url="
-    },
-    {
-        "name": "lzm3u8",
-        "parse": "http://124.222.30.115/aapi/ff.php?url=",
-        "parse2": "http://124.222.30.115/aapi/ff1.php?url="
-    }
 ]
