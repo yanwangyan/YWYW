@@ -1,6 +1,6 @@
 [
     {
-        "名称": "新秒播🔥",
+        "名称": "新秒播2🔥",
         "搜索链接": "http://175.178.80.209/mb/api.php/provide/vod/",
         "搜索UA": "",
         "播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
@@ -40,12 +40,7 @@
 		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
 	},
 
-	{
-		"名称":"樱花资源",
-		"搜索UA":"",
-		"搜索链接":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
-		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
-	},
+	
 
 	{
 		"名称":"索尼资源",
@@ -93,15 +88,40 @@
 		"播放UA": "User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33"
 	},
 
-            {
-        "名称": "SX（主1）",
+    {
+        "名称": "新秒播🔥",
+        "搜索链接": "http://124.222.30.115/mb/api.php/provide/vod/",
+        "搜索UA": "",
+        "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+    },
+    {
+        "名称": "SX影视🔥",
         "搜索链接": "http://124.222.116.5/mb/mb/sxys/api.php/provide/vod/",
         "搜索UA": "",
         "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
     },
-
     {
-        "名称": "QY（主2）",
+        "名称": "NM影视🔥",
+        "搜索链接": "",
+        "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+        "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+        "网页搜索链接": "https://wwgz.cn/index.php?m=vod-search&&&wd",
+        "网页搜索API": "",
+        "搜索影片名": "//div[@class='txt txtHeight']/span[@class='sTit']/text()",
+        "搜索影片ID": "//li/div[@class='pic']/a/@href",
+        "搜索影片图片": "//li/div[@class='pic']/a/img/@data-src",
+        "搜索影片状态": "//li/div[@class='pic']/a/span/text()",
+        "详情页地址": "https://wwgz.cn/vod-detail-id-{id}.html",
+        "详情影片名": "//section[@class='page-hd']/a/@title",
+        "详情剧情": "//article[@class='detail-con']/p/text()",
+        "详情图片": "//section[@class='page-hd']/a/img/@src",
+        "详情播放列表": "//div[@class='bd']/div/ul",
+        "详情线路名": "//div[@class='hd']/ul/li/a/text()",
+        "详情集数名": "//li/a/text()",
+        "详情集数链接": "//li/a/@href"
+    },
+    {
+        "名称": "QY影视",
         "搜索链接": "",
         "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
         "播放UA": "",
@@ -119,25 +139,7 @@
         "详情线路名": "//ul[@class='nav nav-tabs pull-right']/li/a/text()",
         "详情集数名": "//li/a/text()",
         "详情集数链接": "//li/a/@href"
-  
     },
-     {
-                 "名称": "NM影视🔥",
-                         "搜索链接": "",
-                                 "搜索UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",                                      "播放UA": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",    "网页搜索链接": "https://wwgz.cn/index.php?m=vod-search&&&wd",                   "网页搜索API": "",
-"搜索影片名": "//div[@class='txt txtHeight']/span[@class='sTit']/text()",
- "搜索影片ID": "//li/div[@class='pic']/a/@href",
- "搜索影片图片": "//li/div[@class='pic']/a/img/@data-src",
-  "搜索影片状态": "//li/div[@class='pic']/a/span/text()",
-"详情页地址": "https://wwgz.cn/vod-detail-id-{id}.html",
- "详情影片名": "//section[@class='page-hd']/a/@title",
-"详情剧情": "//article[@class='detail-con']/p/text()",  "详情图片": "//section[@class='page-hd']/a/img/@src",
-"详情播放列表": "//div[@class='bd']/div/ul",
-"详情线路名": "//div[@class='hd']/ul/li/a/text()",
- "详情集数名": "//li/a/text()",
- "详情集数链接": "//li/a/@href"
-   },
-     
     {
         "名称": "次元城动漫",
         "搜索链接": "",
@@ -197,5 +199,5 @@
         "详情线路名": "//div[@class='plist plist1']/div[@class='listtit']/span/text()",
         "详情集数名": "//li/a/text()",
         "详情集数链接": "//li/a/@href"
-    }
+	}
 ]
